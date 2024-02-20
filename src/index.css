@@ -5462,13 +5462,13 @@ label.disabled .ReportDialog-RadioBox-checkbox:after {
 .morning-page {
   position: relative;
   width: 100%;
-  background-color: #c6d2e9;
+  background-color: #6a7892;
 }
 
 .afternoon-page {
   position: relative;
   width: 100%;
-  background-color: #6a7892;
+  background-color: #b5682d;
 }
 
 .GalleryPage-bg {
@@ -5496,7 +5496,7 @@ label.disabled .ReportDialog-RadioBox-checkbox:after {
   background: linear-gradient(
       180deg,
       rgba(37, 38, 41, 0.24) 26.22%,
-      #c6d2e9 100%
+      #6a7892 100%
     ),
     linear-gradient(0deg, #171544, #171544);
   opacity: 1;
@@ -5512,7 +5512,7 @@ label.disabled .ReportDialog-RadioBox-checkbox:after {
   background: linear-gradient(
       180deg,
       rgba(37, 38, 41, 0.24) 26.22%,
-      #6a7892 100%
+      #b5682d 100%
     ),
     linear-gradient(0deg, #171544, #171544);
   opacity: 1;
